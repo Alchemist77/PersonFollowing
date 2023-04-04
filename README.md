@@ -9,7 +9,10 @@ It is a code for person-following robot data using mediapipe Pose and pytorch an
 
 * pytorch
 
-* mediapipe
+* Mediapipe
+
+* Orbbec astra pro camera
+
 ## run
 ```
 python3 mp_shoulder_tracker.py
@@ -17,5 +20,6 @@ python3 mp_shoulder_tracker.py
 
 
 Doro is following me...
+
 https://user-images.githubusercontent.com/20105329/229652639-9701f202-2841-487d-bb03-58807fa9724f.mp4
 

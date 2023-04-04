@@ -19,7 +19,7 @@ python3 mp_shoulder_tracker.py
 ```
 
 
-Doro is following me...
+Doro is following a Person...
 
 https://user-images.githubusercontent.com/20105329/229652639-9701f202-2841-487d-bb03-58807fa9724f.mp4
 

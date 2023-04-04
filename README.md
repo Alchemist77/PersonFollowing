@@ -7,7 +7,7 @@ It is a code for person-following robot data using mediapipe Pose and pytorch an
 
 * Python 3
 
-* pytorch
+* Pytorch
 
 * Mediapipe
 

@@ -1,4 +1,4 @@
-# person-following robot using mediapipe Pose and pytorch
+# Person-Following Robot using Mediapipe Pose and Pytorch
 
 It is a code for person-following robot data using mediapipe Pose and pytorch and it is demonstrated using Domestic Robot(Doro).
 
